@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052133191487",
+    "project_id": "fir-4821f",
+    "storage_bucket": "fir-4821f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052133191487:android:076eb48a5fd0cb53872d8a",
+        "android_client_info": {
+          "package_name": "com.yoska.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052133191487-sfn6i5lkg1pmps6g250l8mdemk38dbmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgBKmj3mmi4PFkU19Shz_x3AV9KhvZ3qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052133191487-sfn6i5lkg1pmps6g250l8mdemk38dbmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
